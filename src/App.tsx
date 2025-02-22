@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import {useEffect, useState} from 'react';
 import styled from 'styled-components';
 import {WeatherData} from "./interfaces/weather.ts";
 import WeatherDisplay from './components/WeatherDisplay';
